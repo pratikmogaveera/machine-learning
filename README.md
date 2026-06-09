@@ -31,4 +31,4 @@ pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, pulp
 
 - **Started:** 7 June 2026
 - **Current Phase:** Phase 0 — Statistics Refresh
-- **Status:** Watching StatQuest playlist (video 14/62), practicing formulas in notebook
+- **Status:** Watching StatQuest playlist (video 19/62), practicing formulas in notebook

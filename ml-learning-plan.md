@@ -26,15 +26,15 @@
 - [x] 11. p-values: What they are and how to interpret them
 - [x] 12. Fisher's Exact Test and the Hypergeometric Distribution
 - [x] 13. How to calculate p-values
+- [x] 14. p-hacking: What it is and how to avoid it!
+- [x] 18. Covariance, Clearly Explained!!!
+- [x] 19. Pearson's Correlation, Clearly Explained!!!
 
 #### Currently watching 👈
-- [ ] 14. p-hacking: What it is and how to avoid it!
+- [ ] 15. False Discovery Rates, FDR, clearly explained
 
 #### Must watch (core for ML foundations)
-- [ ] 15. False Discovery Rates, FDR, clearly explained
 - [ ] 16. Statistical Power, Clearly Explained!!!
-- [ ] 18. Covariance, Clearly Explained!!!
-- [ ] 19. Pearson's Correlation, Clearly Explained!!!
 - [ ] 20. Conditional Probabilities, Clearly Explained!!!
 - [ ] 21. Bayes' Theorem, Clearly Explained!!!!
 - [ ] 24. The Binomial Distribution and Test, Clearly Explained!!!
